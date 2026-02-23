@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Naman
 
-<!--
-**Naman-creator-coder/Naman-creator-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+💻 MERN Stack Developer  
+🚀 Learning & Teaching Coding  
+📍 Mumbai, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- C++
+- JavaScript
+- React
+- Node.js
+- Express
+- MongoDB
+- HTML
+- CSS
+- Git & GitHub
+
+---
+
+## 📌 Current Focus
+
+- Building Full Stack Projects
+- Learning Advanced React
+- Implementing JWT Authentication
+- Strengthening DSA
+
+---
+
+## 📫 Connect With Me
+
