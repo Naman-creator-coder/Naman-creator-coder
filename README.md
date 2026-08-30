@@ -32,13 +32,13 @@ I'm currently focused on strengthening my full stack development skills and Data
 ## 📊 GitHub Stats
 
 ![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naman-creator-coder&show_icons=true&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naman-creator-coder)
+![GitHub Streak](https://streak-stats.demolab.com?user=Naman-creator-coder)
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-here](https://www.linkedin.com/in/naman-gond-72b203360))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-gond-72b203360)
 
 
 ---
